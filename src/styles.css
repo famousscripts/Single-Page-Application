@@ -1,0 +1,19 @@
+/* You can add global styles to this file, and also import other style files */
+
+.main {
+    widows: 1000px;
+    margin: 0 auto;
+    padding: 20px;
+    position: relative;
+    border: 1px solid #333;
+}
+
+.main-wrapper {
+    display:block;
+    position: relative;
+    width: auto;
+    margin: 20px;
+    padding: 20px;
+    background-color: #ddd;
+    font-family: sans-serif;
+}

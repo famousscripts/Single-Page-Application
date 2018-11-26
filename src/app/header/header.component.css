@@ -1,0 +1,32 @@
+.loginmain {
+    font-family: sans-serif;
+    padding: 20px;
+    top:0px;
+}
+
+.loginmain ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: brown;
+}
+.loginmain h1 {
+   text-align: center;
+}
+
+.loginmain li {
+    float: left;
+}
+
+.loginmain li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
