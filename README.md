@@ -1,4 +1,4 @@
-# AngSpa
+# Angular6 SPA
 
 For Direct run this project you need to follow these steps:
 
